@@ -1,4 +1,4 @@
 # DataAnalyst-Demo
 This is my first git repository
 <br>
-Author - Mangala Hiwarakar
+Author - Mangala (DataAnalyst)
